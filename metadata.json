@@ -1,0 +1,7 @@
+{
+  "name": "Thekedaar",
+  "description": "Premium home services booking platform connecting users with trusted local professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
